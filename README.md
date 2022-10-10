@@ -1,1 +1,1 @@
-# primeira-landing-page-html-css
+Construído a primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, propriedades básicas da linguagem de estilização, além de trabalhar com unidades de medidas relativas e absolutas que foram aplicadas ao longo da trilha.
